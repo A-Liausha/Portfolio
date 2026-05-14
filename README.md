@@ -77,7 +77,7 @@ A zero-discount policy appears to be the most profitable strategy overall, gener
 
 But the overall numbers don't tell the whole story. When I break down the impact of high versus low discounts by product category, a more nuanced picture emerges. For Audio & HiFi, low discounts result in a higher profit margin (6.60% vs. 5.57%) and a much stronger repeat customer rate (49.64% vs. 43.20%), suggesting that deep discounts hurt loyalty and profitability in this category. In contrast, the Camera category shows that high discounts, despite generating significantly lower total orders (2,965 vs. 5,963), lead to a higher margin (6.59% vs. 5.57%) and a substantially better repeat rate (33.46% vs. 21.97%), indicating that discounts can effectively drive customer loyalty here. The most striking result is for TVs: low discounts produce a negative gross margin (-0.35%), meaning those sales actually lose money, while high discounts result in a positive 3.27% margin and a significantly higher repeat rate (44.19% vs. 33.46%). 
 
-![alt text]({081A9D3E-39B7-43AF-A9A9-9B23DF31B6C9}.png)
+![image alt](https://github.com/A-Liausha/Portfolio/blob/4f36020416b534826534a14e203dddb71d61d53c/pic/Pic%206.png)
 
 ## Recommendations 
 
