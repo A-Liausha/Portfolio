@@ -61,7 +61,7 @@ Looking at product categories, Lenses account for the largest share of losses at
 ### Question #3
 53.78% of total revenue comes from two segments – Loyal (19.75% of customers) and Champions (10.85% of customers) – indicating heavy revenue concentration in these small customer groups. While the Lost segment represents over half of all customers (55.36%) and still contributes 32.17% of revenue, their average spend per customer is relatively low ($9176.76). Cannot Lose customers have the second-highest average spend ($30,412) but their small size (3.96% of customers) limits their revenue impact. Most critically, New Customers make up only 0.71% of the base, signaling failing customer acquisition, and the At Risk segment is being overlooked despite 63% higher average spend than Lost customers.
 
-![alt text]({58E6B897-2861-4AFE-A4BF-961A1D569639}.png)
+![image alt](https://github.com/A-Liausha/Portfolio/blob/759c69d2c31b40bc7f34d24b7f0cfd3b16c94612/pic/Pic%203.png)
 
 ### Question #4
 According to the analysis, the majority of losses, both in terms of number of orders (3,247) and lost profit (54.53%), appears to be caused by high overheads (including personnel, storage, and selling costs). This problem occurred in 16.22% of all orders. High-cost delivery takes 2nd place with 25.37% of losses and occurs in 4.32% of cases. The problem of high discount (average 51%) is also substantial (5.51% of cases), however less severe in terms of lost amount (19.65%).
