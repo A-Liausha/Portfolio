@@ -67,7 +67,7 @@ Looking at product categories, Lenses account for the largest share of losses at
 According to the analysis, the majority of losses, both in terms of number of orders (3,247) and lost profit (54.53%), appears to be caused by high overheads (including personnel, storage, and selling costs). This problem occurred in 16.22% of all orders. High-cost delivery takes 2nd place with 25.37% of losses and occurs in 4.32% of cases. The problem of high discount (average 51%) is also substantial (5.51% of cases), however less severe in terms of lost amount (19.65%).
 To better understand the overheads problem, I examined "High Overheads" loss orders across order sizes. Overhead as a percentage of sales ranges from 98.5% (Large Orders) to 119.4% (Nano Orders) - meaning overhead costs alone exceed total sales revenue in nearly all of these loss orders. The small 21-point gap between the smallest and largest orders is unusual, as larger orders should benefit from economies of scale. This suggests either operational inefficiency or a flawed cost allocation methodology.
 
-![alt text]({ECEB5C31-1BE5-4A86-B91C-0B5E874A61E9}.png)
+![image alt] (https://github.com/A-Liausha/Portfolio/blob/4d77f9783cb53f8b4818a0f82488f9e679d88e32/pic/Pic%204.png)
 
 ### Question #5	
 While overheads and delivery costs account for the majority of losses, high discounts still represent a significant share - and unlike operational costs, discount policy can be adjusted immediately. This raises the question: should we eliminate high discounts entirely, or do they work in certain categories? 
