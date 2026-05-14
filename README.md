@@ -48,7 +48,7 @@ At the corporate level, profit margins are generally higher. The Caribbean regio
 At the category level, the Camera category generates the highest revenue at $10,496,888.60, contributing the largest net profit ($910,202.02) with a profit margin of 8.67%. Within this category, Digital Cameras stand out as the most profitable sub-category, demonstrating a 12.7% profit margin on revenue of 3.59 million. The TV category follows closely with $8,307,164.80 in revenue and an overall profit of $811,982.46. Yet sub-category TV Accessories operates at a negative margin of -2.7%, resulting in a net loss of -$13,340.54. This underperforming line requires immediate action.
 The Audio & HiFi category is the smallest of the three, generating $5,499,539.10 in revenue and $460,409.35 in net profit. The most concerning issue in this category is HiFi Accessories, which delivers only a 3.6% margin - significantly below the category average.
 
-![alt text]({C9D6A4E1-96BA-473A-A249-53225DD433E2}.png)
+![ image alt]({C9D6A4E1-96BA-473A-A249-53225DD433E2}.png)
 
 According to the preliminary analysis, the company's product portfolio demonstrates a generally healthy profitability across most categories. Yet the existence of specific loss-making areas (Corporate Canada, TV Accessories, HiFi Accessories) raises a natural next question: how bad are losses across the entire company, and where else do they hide? 
 
